@@ -13,7 +13,7 @@ public class GrootsPieFinder {
 		for (int[] is : pies1) {
 			System.out.println(Arrays.toString(is));
 			
-		} // Output: [0, 1, 2] or [2, 1, 0]
+		} 
 		System.out.println();
 
 		int[] sweetnessValues2 = { 8, 4, 3, 2, 6, 5 };
